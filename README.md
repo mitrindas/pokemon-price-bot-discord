@@ -2,6 +2,20 @@
 
 A Discord bot for monitoring and tracking Pokemon TCG card prices. Look up US market prices (TCGPlayer + eBay) or EU market prices (Cardmarket sold and active listings), set up automated price alerts, and view historical price trends — all from your Discord server.
 
+
+
+## Preview
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/bd1a0786-c92e-4687-a71b-e80963bfc156" width="600" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/389e789c-d394-47e0-8521-31212abf5794" width="700" />
+</p>
+
+
+
 ## Features
 
 - **US market prices out of the box** — TCGPlayer + eBay prices work on the free API tier
